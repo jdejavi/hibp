@@ -1,6 +1,7 @@
 # HIBP searcher
 
 Esta es una herramienta simple escrita en Python para buscar en las brechas de datos de la web Have I Been Pwned y ver si algún correo de un dominio está comprometido
+
 Se debe de tener una cuenta de Have I Been Pwned con licencia y tener registrado en ella un dominio sobre el que tengas propiedad para su uso
 
 **Recuerda que debes cambiar el valor de la variable API_KEY por tu api key de Have I Been Pwned**
