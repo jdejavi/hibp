@@ -23,7 +23,7 @@ Asegúrate de tener Python 3 instalado en tu sistema antes de utilizar esta herr
    ```
 Por ejemplo:
    ```bash
-   python3 IoC_to_csv.py dominos.txt
+   python3 hibp.py dominios.txt
    ```
 Esto generará un archivo de texto llamado resultados_hibp.txt que contiene los correos encontrados junto con las brechas en los que fue descubierto.
 
